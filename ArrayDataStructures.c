@@ -1,4 +1,3 @@
-# Array-Data-Structures-
 #include <stdio.h>
 int* delete_specifiedpos(int arr[], int* size, int position)
 {
